@@ -1,1 +1,4 @@
 config.secret
+.coverage
+__pycache__
+.vscode
