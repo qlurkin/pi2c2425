@@ -10,7 +10,7 @@ print("hahahahaha")
 print(np.zeros(10))
 
 def add(a: float, b: float) -> float:
-    return a + b
+    return a 
 
 def sub(a, b):
     return a - b

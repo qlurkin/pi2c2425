@@ -1,3 +1,5 @@
+[![Run Tests](https://github.com/qlurkin/pi2c2425/actions/workflows/test.yml/badge.svg)](https://github.com/qlurkin/pi2c2425/actions/workflows/test.yml)
+
 # Hello Python
 
 ce super projet 
